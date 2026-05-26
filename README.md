@@ -5,3 +5,5 @@ You will be accessing files that serve as both starting points for the projects 
 The folders you access may also include images to embed in the web page or application you are creating.
 
 git is rad!
+
+git rocks and so does startupHakk!!
